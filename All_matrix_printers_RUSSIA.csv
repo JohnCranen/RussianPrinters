@@ -1,0 +1,57 @@
+Region,Country,Owner,SPO1,Site ID,City,Model,IP,Serial Number,Department,Importance,Type_of_Device,Business Impacted Area
+EER,Russia,Pepsico,PCH,RUSS-029,Ekaterinburg,Oki MX8150,29.3.12.95,6PTX81431032,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-029,Ekaterinburg,Oki MX8150,29.3.12.95,6PTX81431019,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-029,Ekaterinburg,Oki MX8150,No,6PTX81430018,Production,3 - less critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-029,Ekaterinburg,Oki MX8150,No,6PTX81431035,Production,3 - less critical,Printer,Move
+EER,Russia,Pepsico,FLI,RUSS-011,Azov,Epson FX-2180,11.203.193.17,0021919A897F,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,FLI,RUSS-319,Rostov-on-Don,Epson FX-2190,USB,JR6Y086770,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,FLI,RUSS-319,Rostov-on-Don,Epson FX-2190 II,11.203.233.10,X4BC000503,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-052,Bataysk,Oki MX1150,11.200.132.18 ,6RC6M1334019,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-052,Bataysk,Oki MX8150,11.200.132.19 ,6PTX81431031,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-036,Krasnoyarsk,Oki MX1150,11.200.52.40,6RV6F0951020,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-036,Krasnoyarsk,Oki MX1150,11.200.52.41,6RC6M1334020,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-036,Krasnoyarsk,Oki MX8150,11.200.52.43,6PTX81430016,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-034,Novosibirsk,Oki MX1150,11.200.96.35,6RC6F1146028,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-034,Novosibirsk,Oki MX8150,11.200.96.34,6PTX81431014,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-309,Tula,Oki MX1150,11.209.25.20,6RC6M1345002,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-309,Tula,Oki MX1150,11.209.25.19,6RC6M1345003,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-026,Sherrizone,OKI  MX8150,11.200.20.9,6ptx81431020,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-026,Sherrizone,OKI  MX8150,11.200.20.18,6PTX81410002,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-026,Sherrizone,OKI  MX8150,11.200.20.11,6PTX81411037,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-083,Stavropol,OKI  MX8150,11.200.176.10,6ptx81431008,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-083,Stavropol,OKI  MX8150,11.200.176.9,6ptx81431009,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-027,Domodedovo,OKI  MX8150,11.200.24.18,6PTX81430024,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-027,Domodedovo,OKI  MX8150,11.200.24.11,6PTX81431013,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-027,Domodedovo,OKI  MX8150,11.200.24.15,6PTX81431017,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-027,Domodedovo,OKI  MX8150,11.200.24.16,6PTX81431022,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-027,Domodedovo,Epson FX-2190,29.3.7.96,JR6Y084734,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-095,Reutov,OKI  MX8150,11.72.69.95,6PTX81430025,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-095,Reutov,OKI  MX8150,11.72.69.97,7PTX81342143,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-095,Reutov,OKI  MX8150,No,6PTX81430017,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-038,Samara,OKI  MX8150,29.3.18.78,6PTX81430012,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-038,Samara,OKI  MX8150,No,6PTX81430022,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-046,Ufa,OKI  MX8150,29.3.34.38,6PTX81430027,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-046,Ufa,OKI  MX8150,No,6PTX81430029,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-041,Kazan,OKI  MX8150,11.200.116.22,6PTX81431024,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-041,Kazan,OKI  MX8150,11.200.116.23,6PTX81431015,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-042,Nizhniy Novgorod,OKI  MX8150,11.200.120.40,6PTX81430030,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-042,Nizhniy Novgorod,OKI  MX8150,11.200.120.41,6PTX81430020,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-047,Cheboksary,OKI  MX8150,11.200.72.103,6PTX81430028,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-047,Cheboksary,OKI  MX8150,11.200.72.48,6PTX81430023,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-035,Irkutsk,OKI  MX8150,29.3.57.53,6ptx81431033 ,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-035,Irkutsk,Oki MX1150,29.3.57.54,6RC6F1146029,Production,2 - somewhat critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-037,Ulan-Ude,OKI  MX8150,11.200.56.33,GPTX81430014,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-057,St-Petersburg,OKI  MX8150,29.3.10.84,6ptx81431012,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-057,St-Petersburg,OKI  MX8150,29.3.10.85,81431021,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-057,St-Petersburg,OKI  MX8150,29.3.10.96,81431030,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-305,Kaliningrad,EPSON DFX-9000,11.209.12.112,GKL0029128,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-305,Kaliningrad,EPSON DFX-9000,11.209.12.54,GKL0029219,Production,1 - most critical,Printer,Move
+EER,Russia,Pepsico,PCH,RUSS-305,Kaliningrad,EPSON DFX-9000,11.209.12.115,GKL0035698,Production,1 - most critical,Printer,Move
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
